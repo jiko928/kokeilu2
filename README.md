@@ -1,1 +1,1 @@
-This is a README
+print("Hello World!")
